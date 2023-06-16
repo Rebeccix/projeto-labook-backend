@@ -205,3 +205,6 @@ Caso dê um dislike em um post que tenha dado like, o dislike sobrescreve o like
 - caso não exista um registro na tabela de relação, é porque a pessoa não deu like nem dislike
 - caso dê like em um post que já tenha dado like, o like é removido (deleta o item da tabela)
 - caso dê dislike em um post que já tenha dado dislike, o dislike é removido (deleta o item da tabela)
+
+# Documentação feita pelo postman
+- https://documenter.getpostman.com/view/24823107/2s93sW9bMJ
